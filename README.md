@@ -1,4 +1,5 @@
 # GenNet-Autoencoder
-Showcase of the autoencoder for genotype data I developed for my thesis project
+Repository for the autoencoder for genotype data I developed for my thesis project
 
-[Click here to view a demo in Google Colab](https://colab.research.google.com/github/dkruit/GenNet-Autoencoder/blob/main/GenNet_Autoencoder_demo.ipynb)
+Currently contains a Jupyter notebook with a demonstration of the model. 
+[Click here to run the demo in Google Colab](https://colab.research.google.com/github/dkruit/GenNet-Autoencoder/blob/main/GenNet_Autoencoder_demo.ipynb)
